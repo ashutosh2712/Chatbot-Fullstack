@@ -1,0 +1,6 @@
+[submodule "chatbot_backend"]
+	path = chatbot_backend
+	url = https://github.com/ashutosh2712/news_cahtbot-backend
+[submodule "chatbot_frontend"]
+	path = chatbot_frontend
+	url = https://github.com/ashutosh2712/news_cahtbot-frontend
